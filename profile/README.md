@@ -3,7 +3,7 @@ We are a team of engineers named Zisty. We are mainly students and we develop se
 
 And we develop using the following languages and platforms  
   
-<img style="size : 10px" alt="Skils" src="https://skillicons.dev/icons?theme=dark&perline=10&i=html,css,js,php,cs,dotnet,md,mysql,nodejs,discordjs,py,ruby" />
+<img style="size : 10px" alt="Skils" src="https://skillicons.dev/icons?theme=dark&perline=10&i=html,css,js,nextjs,php,cs,dotnet,md,mysql,nodejs,discordjs,py,ruby" />
 <img style="size : 10px" alt="Skils" src="https://skillicons.dev/icons?theme=dark&perline=10&i=cloudflare,androidstudio,blender,git,github,powershell,raspberrypi,replit,windows,vercel" />
 
   
