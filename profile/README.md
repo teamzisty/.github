@@ -13,5 +13,3 @@ And we develop using the following languages and platforms
 - [x] Do you like programming? (most important!!)<br>
 
 If all question's answer was “Yes”, Plese think join to us!
-
-<img src="https://github.com/zisty-h/.github/blob/main/profile/footer.202410121.png">
